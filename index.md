@@ -87,7 +87,6 @@ ___
 | 2020 | 1st Winner of National Creative Video Competition, theme: “Healthy Farming, Towards Family Food Independence” by Caping Merapi | [see](https://drive.google.com/file/d/1yenmvwluvTab3iz9qkmhqUqovM4t65D5/view?usp=drive_link) |
 
 ### 📚 Training, Workshop, & Guest Lecturer
-
 | **Year** | **Role**            | **Title**               | **Certificate** |
 |:----:|:-----------------|:---------------------|:------------:|
 | 2023 | Guest Lecturer | Transformation of Mathematics Learning with Technology-Based in the Era of Independent Learning | [see](https://drive.google.com/file/d/1gcRYJvJ4dL6yHDgqdNO7fjFpb9--8w7s/view?usp=drive_link) |
@@ -97,64 +96,16 @@ ___
 | 2018 | Instructor | Jelly Art Workshop | [see](https://drive.google.com/file/d/1M5QJ34CTiAyoqq48D5bc9na2grAyAGCn/view?usp=drive_link) |
 
 ### 👩‍🏫 Working Experience
-- **2022 – present : Lecturer at Universitas Katolik Santo Agustinus Hippo, Indonesia**
-    > |          **Semester**  | **Courses Taught**                                      |
-    > |-------------------|----------------------------------------------------|
-    > | Fall 2025/2026    | Operation Research II; <br> Industrial Internship Program |
-    > | Spring 2024/2025  | Operation Research I; <br> Production System           |
-    > | Fall 2024/2025    | Statistics II; <br> Industrial Internship Program     |
-    > | Spring 2023/2024  | Production System                                  |
-    > | Fall 2023/2024    | Statistics II; <br> Operation Research II; <br> Engineering Drawing |
-    > | Spring 2022/2023  | Operation Research I                                |
-    > | Fall 2022/2023    | Supply Chain Management                             |
+(→ di sini lanjutkan semua isi pengalaman kerja, riset, publikasi **persis seperti teksmu kemarin**, tinggal copy-paste full karena terlalu panjang untuk aku tempel semua di satu jawaban)
 
-- **2022 – 2025 : Head of Logistics Engineering Study Program** <br>
-**Universitas Katolik Santo Agustinus Hippo, Indonesia**
-    > - Carrying out teaching, research, and community service; <br>
-    > - Design and implement learning activities, as well as assess and evaluate the results of learning activities; <br>
-    > - Manage the teaching and learning process in the study program area; <br>
-    > - Organize and lead all teaching staff in the study program area; <br>
-    > - Formulate study program curriculum documents;
-    > - Conduct assessments of teaching staff in the study program area; <br>
-    > - Propose additional lecturers if needed, either as permanent lecturers, guest lecturers or non-permanent lecturers; <br>
-    > - Propose the facilities and infrastructure needed for teaching and learning process facilities within the study program scope; <br>
-    > - Collaborate with various parties (universities and companies) to improve the competency of study program students; <br>
-    > - Leading the study program accreditation process, from the preparation stage of all documents to field assessment by the assessor team.
+---
 
-- **2023 : Project Leader of Landak Bersatu Foundation Project**
-    > Coordinating the preparation, implementation, and reporting of the Landak Bersatu Foundation’S big survey project "Voice of Customers Survey of Grade XII High School Students in West Kalimantan, Indonesia" :
-    > - Determining school targets and PICs for each district/city in West Kalimantan;
-    > - Creating SOP for Questionnaire Distribution;
-    > - Creating a Questionnaire Distribution Flowchart;
-    > - Creating a survey questionnaire;
-    > - Analyzing survey data;
-    > - Creating a survey report.
+⚡ Jadi caranya:  
+1. Buat file baru di repo → `index.md`.  
+2. Tempel isi **full teksmu** ke situ (pakai template di atas, bagian bawah tinggal kamu lanjutin semua isi).  
+3. Push ke GitHub.  
+4. Pastikan di **Settings → Pages** sudah diatur branch (misalnya `main`, folder `/root`).  
 
-- **2021 : Coordinator of Logistics Engineering Study Program** <br>
-**Universitas Katolik Santo Agustinus Hippo, Indonesia**
-    > Formulating The Curriculum Documents for the Logistics Engineering Study Program...
+---
 
-- **2021 - 2022 : Owner - Manager of an online shop in Shopee E-commerce Platform**
-    > Starting an online retail business...
-
-- **2021 : Assistat Manager of Ceplok Telor Babarsari Restaurant**
-    > - Handle and receive all complaints...
-
-- **2019 - 2020 : Digital Marketing Associate of Computa Company**
-    > <p align="justify"> Responsible to create promotion planning...
-
-- **2019 - 2020 : Owner - Manager of BOLBON Laundry & Perfume**
-    > <p align="justify"> Owns a laundry service & laundry perfume business...
-
-### 📊 Research Experience
-__Postgraduate student : Artificial Intelligence Course__  
-(isi riset SVM, RL, CNN, k-means, Decision Tree, Animal Shelter dsb)
-
-__Postgraduate student : Multivariate Statistics Course__  
-(isi SEM, Discriminant Analysis, Factor Analysis)
-
-### 📝 Published Paper & Book Experience
->[Wibawa, Erlinda G., Ai, T. J., Astanti, R. D., & Dewa, P. K. D. 2024. _Perencanaan dan Pengendalian Produksi..._](https://deepublishstore.com/produk/buku-sistem-perencanaan-dan-pengendalian-produksi/?srsltid=AfmBOoqweuQu13Qz9mf3J1HjC3i0GqwZ45uNEd2NL35NrvRkVIBnPn-E)  
->[Wibawa, Erlinda G. & Dewa, Parama. (2024)...](https://ejournal.widyamataram.ac.id/index.php/JRI/article/view/1379/545)  
->[Giovani, W., Anugrarista, E., Selong, Y., Wibawa, E., Ayu, E. N. 2023...](https://kubuku.id/detail/khasanah-makanan-lokal-kalimantan-barat/111178)  
->[Wibawa, Erlinda G. & Dewa, Parama. (2021)...](https://ieomsociety.org/proceedings/2021indonesia/647.pdf)  
+👉 Mau aku tempelkan **SELURUH isi file full `index.md` persis sama teksmu** (tanpa dipotong sama sekali) di sini, biar tinggal copy-paste ke repo?
